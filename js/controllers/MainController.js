@@ -52,5 +52,5 @@ app.controller('MainController', ['$scope', function($scope) {
                     developer: 'Forecast',
                     price: 1.99
                   }
-]             
+  ]             
 }]);
